@@ -1,7 +1,7 @@
 # Axior 🤖
 
 <div align="center">
-  <img src="./docs/static/img/axior_banner.jpg.jpg" alt="Axior Banner" width="100%" />
+  <img src="./docs/static/img/axior_banner.jpg" alt="Axior Banner" width="100%" />
 </div>
 
 ## ✨ Features
